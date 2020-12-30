@@ -2,7 +2,7 @@
 
 Notes to run app well:
 
-Gender                 (0 or 1)/
+Gender                 (0 or 1)<br/>
 Married                (0 or 1)
 Dependents             int64
 Education              int64
